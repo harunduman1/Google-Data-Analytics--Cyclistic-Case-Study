@@ -7,7 +7,7 @@ As a junior data analyst my Google Case Study is Cyclist Bike Share Project. I w
 # Quick Links
 I've worked with data on 5 Stages which are:
 
-1- Data Combining
+1- Data Combining[link]https://github.com/orochimo/Google-Data-Analytics--Cyclistic-Case-Study/blob/main/1.%20Data%20Combining%20Stage.sql
 2- Data Exploration
 3- Data Cleaning
 4- Data Analysis
