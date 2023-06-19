@@ -2,7 +2,7 @@
 
 DROP TABLE IF EXISTS `Alltrips.combined_data`;
 
--- combining all the 12 months data tables into a single table containing data from Jan 2022 to Dec 2022.
+## to combine all the 12 months data tables into a single table containing data from Jan 2022 to Dec 2022.
 
 CREATE TABLE IF NOT EXISTS `Alltrips.combined_data` AS (
   SELECT * FROM `cyclist-case-study-1.Alltrips.2022jan`
